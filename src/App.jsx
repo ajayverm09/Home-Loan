@@ -8,7 +8,7 @@ import About from './pages/About'
 import Contact from './pages/Contact'
 import Blogs from './pages/Blogs'
 import SingleBlog from './components/SingleBlog'
-import ScrollToTop from './Components/ScrollToTop'
+import ScrollToTop from './components/ScrollToTop'
 
 function App() {
 
